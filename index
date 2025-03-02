@@ -9,7 +9,7 @@
 </head>
 <body>
     <header>
-        <a href="#" class="logo">OM PATEL</a>
+        <a href="#" class="logo">Hinal Patel</a>
 
         <nav>
             <a href="index.html" class="active"> Home</a>
@@ -34,17 +34,17 @@
             <h1>Hi there, It's <span>Om</span></h1>
             <h3 class="typing-text">I'm a <span></span></h3>
             <p>It’s a pleasure to have you here!<br><br>
-            I’m OM PATEL, a skilled software developer focused on building impactful software solutions.<br>
-            My journey in the tech world has equipped me with a diverse skill set and a problem-solving mindset.<br>
-            I invite you to explore my portfolio and discover the projects that showcase my commitment to excellence and innovation.<br>
-            I look forward to potential opportunities to collaborate and make a difference together.</p>
-            <a href="Projects.html" class="btn">PROJECTS</a>
+            Hi, I’m Hinal Patel, a passionate software developer dedicated to crafting innovative and efficient solutions.
+	    With a strong foundation in coding and problem-solving, I thrive on turning complex challenges into seamless experiences.
+            My portfolio showcases a range of projects that reflect my commitment to excellence, creativity, and continuous learning.
+            I am always eager to explore new technologies and collaborate on exciting opportunities.</p>
+            <a href="Projects.html" class="btn">Projects</a>
 
             <div class="social-icons">
-                <a href="https://www.linkedin.com/in/om-kasodariya-46642a266/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
-                <a href="https://www.instagram.com/godric._.99/" target="_blank"><i class="fa-brands fa-instagram"></i></a> 
-                <a href="tel:+13658332729" target="_blank"><i class="fa-solid fa-phone"></i></a>
-                <a href="mailto:ompatel4246@gmail.com" target="_blank"><i class="fa-solid fa-envelope"></i></a> 
+                <a href="https://www.linkedin.com/in/hinalp-46642a266/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+                <a href="https://www.instagram.com/hinu0712/" target="_blank"><i class="fa-brands fa-instagram"></i></a> 
+                <a href="tel:+16477408495" target="_blank"><i class="fa-solid fa-phone"></i></a>
+                <a href="mailto:hinalp052@gmail.com" target="_blank"><i class="fa-solid fa-envelope"></i></a> 
             </div>
         </div>
     </section>
